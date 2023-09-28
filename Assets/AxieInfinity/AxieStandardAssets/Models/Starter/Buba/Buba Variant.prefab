@@ -90,7 +90,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9fec565d380444e24b74cc41f3b2a571,
         type: 3}
       propertyPath: m_Name
-      value: Buba
+      value: Buba Variant
       objectReference: {fileID: 0}
     - target: {fileID: 2201892055050469221, guid: 9fec565d380444e24b74cc41f3b2a571,
         type: 3}
